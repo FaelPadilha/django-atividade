@@ -6,7 +6,7 @@
 - Django CORS Headers (pip install django-cors-headers)
 - Rest Framework Simple JWT (pip install djangorestframework-simplejwt)
 
-## 🔧 Observações (Banco de dados)
+## 🔧 Observações
 O projeto está utilizando a biblioteca Psycopg2 para se conectar com o Banco de dados PostgreSQL:
 - Psycopg2 (pip install psycopg2-binary)
 
