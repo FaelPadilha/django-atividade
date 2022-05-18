@@ -1,6 +1,6 @@
 # Atividade de Django e React (Desenvolvimento de Sistemas Web)
 
-## 🔧 Bibliotecas Utilizadas no Ambiente Virtual (Django)
+## 🔧 Bibliotecas Utilizadas no Ambiente Virtual
 - Django (pip install django)
 - Django Rest Framework (pip install djangorestframework)
 - Django CORS Headers (pip install django-cors-headers)
